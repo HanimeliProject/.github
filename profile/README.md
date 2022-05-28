@@ -32,3 +32,4 @@
 8.  ElasticSearch - [İndirme Linki](https://www.elastic.co/elasticsearch/?ultron=B-Stack-Trials-EMEA-S-Exact&gambit=Stack-DownloadTerms&blade=adwords-s&hulk=paid&Device=c&thor=elasticsearch%20download&gclid=EAIaIQobChMIs_6Zw9_89wIV-YxoCR1ETgGDEAAYASAAEgKbSfD_BwE) 
 9.  Docker Desktop - [İndirme Linki](https://www.docker.com/products/docker-desktop/) 
 10.  Redis (Cache) - [İndirme Linki](https://redis.io/download/) 
+11.  Figma (Tasarım Aracı) - [İndirme Linki](https://www.figma.com/downloads/) 
